@@ -1,0 +1,24 @@
+body {
+    background: #1E1E1E;
+    color: #FBD805;
+}
+
+/* identificadores  */
+#main-body {
+    color: #1E1E1E;
+    opacity: 80%;
+}
+
+/* classes */
+.nav-item a {
+    color: #FBD805;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    font-weight: 500;
+}
+
+.nav-link:hover,
+.nav-link:focus,
+.nav-link.active {
+    color: #DB4A13 !important;
+}
