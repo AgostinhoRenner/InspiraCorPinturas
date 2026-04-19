@@ -10,6 +10,10 @@ a {
     cursor: pointer;
 }
 
+p {
+    text-align: justify;
+}
+
 a,
 a:visited,
 a:active {
