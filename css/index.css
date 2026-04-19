@@ -1,6 +1,25 @@
 body {
     background: #1E1E1E;
     color: #FBD805;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+    cursor: pointer;
+}
+
+a,
+a:visited,
+a:active {
+    text-decoration: none;
+    color: inherit;
+    cursor: pointer;
+}
+
+a:hover {
+    color: #DB4A13 !important;
 }
 
 /* identificadores  */
@@ -21,4 +40,8 @@ body {
 .nav-link:focus,
 .nav-link.active {
     color: #DB4A13 !important;
+}
+
+.logo_rede_social {
+    margin: 10px 0px;
 }
