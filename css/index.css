@@ -12,6 +12,7 @@ a {
 
 p {
     text-align: justify;
+    text-shadow: 1px 1px 3px #5c5c5c;
 }
 
 a,
@@ -48,4 +49,9 @@ a:hover {
 
 .logo_rede_social {
     margin: 10px 0px;
+}
+
+.card {
+    background-blend-mode: lighten;
+    background-color: #D9D9D9;
 }
